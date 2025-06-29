@@ -13,19 +13,17 @@ ans1 = input("Answer: ")
 if ans1 == "7":
     score += 1
 
-# Question 2
 print("\n2. What is your fav color?")
 ans2 = input("Answer: ")
 if ans2.lower() == "black":
     score += 1
 
-# Question 3
+
 print("\n3. What comes after A in the alphabet?")
 ans3 = input("Answer: ")
 if ans3.lower() == "b":
     score += 1
 
-# Question 4
 print("\n4. Which animal says 'bow'?")
 ans4 = input("Answer: ")
 if ans4.lower() == "dog":
