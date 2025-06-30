@@ -1,1 +1,1 @@
-# Quizgaming
+This quiz game is built using Python to ask general knowledge and study-related questions. It provides instant feedback and keeps track of the score. It's a fun and interactive way to revise topics and test your learning through code!# Quizgaming
